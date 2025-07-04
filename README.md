@@ -104,5 +104,5 @@ EXAMPLE: For Demographic plots:
 Open RStudio
 Load and run R Markdown "demographic_plots.Rmd"
 
-Please, note, to complete the LPA.Rmd file, allow for 5 hours (due to bootsrapping procedures)
+Please, note,LPA analysis is uploaded as a zipped file. To run it, unzipp it first. To complete the LPA.Rmd file, allow for 5 hours (due to bootsrapping procedures)
 
